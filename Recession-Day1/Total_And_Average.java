@@ -1,4 +1,4 @@
-public class Total_And _Average{
+public class Total_And_Average{
     public static void main(String args[]){
         int Tam,Eng,Mat,total;
         float average;
